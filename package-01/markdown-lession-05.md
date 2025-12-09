@@ -22,3 +22,23 @@
 图片4：
 
 ![航空母舰](../pictures/img_2.png)
+
+
+<br/><br/>
+图片地址，也可以是存储在网络上的图片的地址
+
+<br/><br/>
+![RUNOOB 图标](https://static.jyshare.com/images/runoob-logo.png)
+
+![RUNOOB 图标](https://static.jyshare.com/images/runoob-logo.png "RUNOOB")
+
+<br/><br/>
+
+**以下是图片和链接的联合使用的案例**
+<!-- 项目徽章 -->
+[![Build Status](https://travis-ci.org/user/repo.svg?branch=master)](https://travis-ci.org/user/repo)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+<!-- 应用商店下载 -->
+[![App Store](./images/app-store-badge.png)](https://apps.apple.com/app/your-app)
+[![Google Play](./images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.yourapp)
