@@ -7,7 +7,10 @@
 
 向 Markdown 文件添加表情符号有两种方法：将表情符号复制并粘贴到 Markdown 格式的文本中，或键入表情符号简码。
 
-在大多数情况下，可以直接从 Emojipedia 等来源复制一个表情符号，例如去https://emojipedia.org/ 这个网站复制表情符号，然后将其粘贴到文档中。许多 Markdown 应用程序会自动在 Markdown 格式的文本中显示表情符号。从 Markdown 应用程序导出的 HTML 和 PDF 文件应显示表情符号。
+在大多数情况下，可以直接从 Emojipedia 等来源复制一个表情符号，
+例如去https://emojipedia.org/ 这个网站复制表情符号，然后将其粘贴到文档中。
+许多 Markdown 应用程序会自动在 Markdown 格式的文本中显示表情符号。
+从 Markdown 应用程序导出的 HTML 和 PDF 文件应显示表情符号。
 
 🎢
 ✅
